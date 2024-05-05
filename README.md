@@ -1,4 +1,4 @@
-# Experiments with Gaussian Splatting
+# Experiments with 3D Gaussian Splatting
 
 This is an experimental repo of using various approaches to solve key challenges in Gaussian Splatting.</n>
 As per my knowledge the difficult challenges are:
