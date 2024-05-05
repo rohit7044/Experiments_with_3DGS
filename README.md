@@ -7,7 +7,8 @@ As per my knowledge the difficult challenges are:
 3. Gaussian Splats with Sparse Data(ill-posed)
 
 Completed:
-1. Experimented on Gaussian Splatting using Splatfacto from [![Nerfstudio](https://github.com/nerfstudio-project/nerfstudio)
+1. Experimented on Gaussian Splatting using Splatfacto from [Nerfstudio](https://github.com/nerfstudio-project/nerfstudio)
 
 Current Task:
-2. Is it possible to edit Splats like [![SIGNeRF](https://docs.nerf.studio/nerfology/methods/signerf.html)?
+1. Is it possible to edit Splats like [SIGNeRF](https://docs.nerf.studio/nerfology/methods/signerf.html)?
+2. How to get cleaner mesh from splats?
